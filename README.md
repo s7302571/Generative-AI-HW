@@ -18,3 +18,4 @@ This repository contains a short tutorial of how to use claude code as assistant
 ```
 
 ## Video Link
+https://www.youtube.com/watch?v=_P8CDmBsp1I
